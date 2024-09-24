@@ -1,0 +1,8 @@
+Programa realizado en Python con las siguientes librerías
+-Pandas
+-Numpy
+-Seaborn
+-Matplotlib
+-Sklearn
+-Joblib
+-Mlflow
